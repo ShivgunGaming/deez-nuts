@@ -14,7 +14,7 @@ This program displays a GIF of "Deez Nuts" accompanied by audio. It utilizes the
 ## Usage 🚀
 
 1. Ensure you have all the required dependencies installed.
-2. Run the script `deez_nuts.py`.
+2. Run the script `deeznuts.py`.
 3. A Tkinter window will appear displaying the "Deez Nuts" GIF along with audio.
 4. Enjoy! 🎉
 
